@@ -1,37 +1,60 @@
-#PyEditor — Professional Python Text Editor#
-A lightweight code editor with syntax highlighting, in the style of VS Code.
+# PyEditor — Professional Python Code Editor
 
-Features
-	* Python syntax highlighting — keywords, strings, comments, functions
-	* Line numbering
-	* Multiple tabs — work with multiple files
-	* File operations — New, Open, Save, Save As
-	* Find and replace
-	* Run code — execute Python directly from the editor
-	* Dark theme — comfortable for your eyes
-	* Auto-indentation — Tab and Enter with current level awareness
+A lightweight code editor with syntax highlighting in VS Code style.
 
-Requirements
-	* Python 3.7+
-	* Tkinter (usually comes with Python)
+## Features
 
-Hotkeys
+- **Python syntax highlighting** — keywords, strings, comments, functions, decorators
+- **Bracket matching** — highlights matching `()`, `[]`, `{}`
+- **Line numbers**
+- **Multiple tabs** — work with several files at once
+- **File operations** — New, Open, Save, Save As
+- **Search** — Find Next, Find All (highlight all matches)
+- **Replace** — Replace, Replace All
+- **Run code** — F5, async execution, separate output window
+- **Undo/Redo** — Ctrl+Z, Ctrl+Y
+- **Dark theme** — easy on the eyes
+- **Auto-indentation** — Tab (4 spaces), Enter respects `:`
+
+## Requirements
+
+- Python 3.7+
+- Tkinter (included with Python)
+
+## Run
+
+```bash
+cd pyeditor
+python editor.py
+```
+
+## Shortcuts
+
 | Action | Shortcut |
-|----------|-----------|
+|--------|----------|
 | New file | Ctrl+N |
 | Open | Ctrl+O |
 | Save | Ctrl+S |
-| Save as | Ctrl+Shift+S |
+| Save As | Ctrl+Shift+S |
+| Close tab | Ctrl+W |
+| Run code | F5 |
 | Find | Ctrl+F |
 | Replace | Ctrl+H |
+| Undo | Ctrl+Z |
+| Redo | Ctrl+Y |
 | Cut | Ctrl+X |
 | Copy | Ctrl+C |
 | Paste | Ctrl+V |
 
-License
+## Project structure
+
+```
+pyeditor/
+├── editor.py      # Main application
+├── requirements.txt
+└── README.md
+```
+
+## License
+
 MIT
-
-Vershions
-Download 1.0
-blob:https://github.com/df1e7cc7-ca34-4379-8dce-989563de94aa
-
