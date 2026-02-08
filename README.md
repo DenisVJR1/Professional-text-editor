@@ -1,6 +1,6 @@
 # PyEditor — Professional Python Code Editor
 
-A lightweight code editor with syntax highlighting in VS Code style.
+A lightweight code editor with syntax highlighting in VS Code style made for Python.
 
 ## Features
 
@@ -41,5 +41,6 @@ A lightweight code editor with syntax highlighting in VS Code style.
 MIT
 
 ## Please give a star!
+
 
 
