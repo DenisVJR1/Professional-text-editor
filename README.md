@@ -39,6 +39,7 @@ A lightweight code editor with syntax highlighting in VS Code style.
 ## License
 
 MIT
-## Versions
-[Download version 1.0](blob:https://github.com/df1e7cc7-ca34-4379-8dce-989563de94aa)
+
+## Please give a star!
+
 
