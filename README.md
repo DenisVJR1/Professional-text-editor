@@ -180,6 +180,8 @@ text
   <td style="padding: 8px;">Close current tab</td>
 </tr>
 </tbody> </table>
+<table style="width: 100%; border-collapse: collapse; margin-top: 20px;"> <tr> <td style="border: 1px solid #ddd; padding: 10px; text-align: center; background-color: #e6f7ff;"> <strong>New File</strong><br><code>Ctrl+N</code> </td> <td style="border: 1px solid #ddd; padding: 10px; text-align: center; background-color: #f0fff0;"> <strong>Save</strong><br><code>Ctrl+S</code> </td> <td style="border: 1px solid #ddd; padding: 10px; text-align: center; background-color: #fff0f5;"> <strong>Find</strong><br><code>Ctrl+F</code> </td> <td style="border: 1px solid #ddd; padding: 10px; text-align: center; background-color: #f5f0ff;"> <strong>Run Code</strong><br><code>F5</code> </td> </tr> <tr> <td style="border: 1px solid #ddd; padding: 10px; text-align: center; background-color: #fff8e1;"> <strong>Undo</strong><br><code>Ctrl+Z</code> </td> <td style="border: 1px solid #ddd; padding: 10px; text-align: center; background-color: #e8f5ff;"> <strong>Redo</strong><br><code>Ctrl+Y</code> </td> <td style="border: 1px solid #ddd; padding: 10px; text-align: center; background-color: #f0f0f0;"> <strong>Copy</strong><br><code>Ctrl+C</code> </td> <td style="border: 1px solid #ddd; padding: 10px; text-align: center; background-color: #e6f7ff;"> <strong>Paste</strong><br><code>Ctrl+V</code> </td> </tr> </table>
+
 **🤖 AI Assistant Usage**
 The AI Assistant helps generate code from templates:
 
@@ -286,6 +288,7 @@ If you find PyEditor useful:
 
 🔄 Share with other developers
 <img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/b46ba537-5d3b-4a1a-88f7-f85410cd69a0" />
+
 
 
 
